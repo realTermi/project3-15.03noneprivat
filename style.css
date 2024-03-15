@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+   
+}
+.header{
+    background-color: #ECECEC;
+    padding: 30px;
+    color: 212121;
+    width: 1600px;
+    height: 80px;
+    word-spacing: 20px;
+}
+.link1 {
+    font-style: "Roboto";
+    color: #212121;
+    text-decoration: none;
+}
+.link1:hover{
+    color: #2196F3;
+}
+.Web{
+    color:#2196F3 ;
+}
+.Studio{
+    color: #212121;
+}
+.Studio2{
+    color: #FFFFFF;
+}
+.firstdiv{
+    background-color: #2F303A;
+    width: 1600px;
+    height: 600px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    color: white;
+}
+.link2{
+    background-color: #2196F3;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+.firstdivtxt{
+    width: 696px;
+    height: 120px;
+    line-height: 120px;
+    margin-bottom: 20px;
+}
+.box {
+    
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-between  ;
+    width: 1600px;
+    height: 295px;
+    
+}
+
+img {
+    width: 350px;
+    height: 200px;
+    object-fit: cover;
+}
+.team {
+    background-color: #F5F4FA;
+    color: #212121;
+    
+    
+}
+.under {
+    color: #757575;
+
+}
+.imgs {
+    width: 300px;
+    height: 300px;
+    justify-content: space-between;
+}
+.foot {
+    background-color: #2F303A;
+    width: 1600px;
+    margin: auto;
+   
+    
+}
+.none {
+    font-style: "Roboto";
+    color: #757575;
+    text-decoration: none;
+}
+.none2 {
+    color: #FFFFFF;
+    padding: 5px;
+}
+.c {
+    color: #212121;
+}
+.comm {
+    text-align: center;
+}
